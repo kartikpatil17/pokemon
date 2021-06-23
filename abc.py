@@ -7,4 +7,6 @@ z=x+y
 print(z)
 print(x*y)
 
+print("kartik")
+
 
